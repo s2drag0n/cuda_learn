@@ -1,0 +1,1 @@
+/usr/bin/g++-13 -rdynamic -Wl,--dependency-file,CMakeFiles/querry_GPU_info.dir/link.d @CMakeFiles/querry_GPU_info.dir/objects1.rsp -o querry_GPU_info @CMakeFiles/querry_GPU_info.dir/linkLibs.rsp -L"/opt/cuda/targets/x86_64-linux/lib/stubs" -L"/opt/cuda/targets/x86_64-linux/lib"
