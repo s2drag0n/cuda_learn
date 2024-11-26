@@ -1,7 +1,0 @@
-/home/szl/workspace/learn/cuda/build/CMakeFiles/event_record_time.dir
-/home/szl/workspace/learn/cuda/build/CMakeFiles/matrix_sum_1D_GPU.dir
-/home/szl/workspace/learn/cuda/build/CMakeFiles/querry_GPU_info.dir
-/home/szl/workspace/learn/cuda/build/CMakeFiles/test_cuda.dir
-/home/szl/workspace/learn/cuda/build/CMakeFiles/clear.dir
-/home/szl/workspace/learn/cuda/build/CMakeFiles/edit_cache.dir
-/home/szl/workspace/learn/cuda/build/CMakeFiles/rebuild_cache.dir

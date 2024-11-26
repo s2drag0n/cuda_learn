@@ -15,7 +15,7 @@ int getSPcores(cudaDeviceProp devProp) {
       cores = mp * 48;
     else
       cores = mp * 32;
-         break;
+    break;
   case 3: // Kepler
     cores = mp * 192;
     break;

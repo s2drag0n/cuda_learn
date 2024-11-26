@@ -1,1 +1,0 @@
-/usr/bin/g++-13 -rdynamic -Wl,--dependency-file,CMakeFiles/matrix_sum_1D_GPU.dir/link.d @CMakeFiles/matrix_sum_1D_GPU.dir/objects1.rsp -o matrix_sum_1D_GPU @CMakeFiles/matrix_sum_1D_GPU.dir/linkLibs.rsp -L"/opt/cuda/targets/x86_64-linux/lib/stubs" -L"/opt/cuda/targets/x86_64-linux/lib"
